@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-tasks-a77b9": {
+      "hosting": {
+        "tasks": [
+          "ng-tasks-a77b9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-tasks-a77b9"
+  }
+}
